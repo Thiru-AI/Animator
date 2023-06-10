@@ -78,10 +78,5 @@ public class IdleToCrouch : MonoBehaviour
 ## Forward walking:
 ![Screenshot (115)](https://user-images.githubusercontent.com/93434149/202175749-2cf6cebb-137e-4e12-9318-7b153bfd6ea6.png)
 
-
-## Reverse walking:
-![Screenshot (114)](https://user-images.githubusercontent.com/93434149/202175767-e5f6d00b-c1b1-4d82-9dc6-cd81c561f592.png)
-
-
 ## Result:
 Thus, the animator was successfully developed in unity engine with the C#.
